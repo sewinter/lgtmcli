@@ -6,7 +6,7 @@ curl -fsSL https://releases.lgtmcli.dev/install.sh | sh
 
 You context-switch to a browser tab. You skim a 400-line diff. You leave only an LGTM. You context-switch back and try to remember what you were doing. Code review shouldn't break your flow.
 
-**LGTM is a terminal-native code review tool.** It syncs your PRs from GitHub, compiles an AI briefing for each one (risk assessment, flagged areas, draft inline comments) and lets you review and submit without leaving the terminal.
+**LGTM is a terminal-native code review tool.** It syncs your review queue from GitHub, compiles an AI briefing for each PR, and lets you review and submit without leaving the terminal.
 
 ## What a briefing looks like
 
