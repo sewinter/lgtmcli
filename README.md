@@ -57,7 +57,7 @@ lgtm config
 
 ## Usage
 
-Just run `lgtm`. It syncs your PRs, shows your queue, and walks you through each review — briefing, diff, draft comments, submit — all with single-key navigation.
+Just run `lgtm`. It syncs your PRs, shows your queue, and walks you through each review (briefing, diff, draft comments, submit) all with single-key navigation.
 
 ```bash
 lgtm                        # start here
@@ -78,4 +78,4 @@ lgtm brief owner/repo#123
 
 ## Requirements
 
-macOS (Apple Silicon or Intel) or Linux x86_64. An [Anthropic API key](https://console.anthropic.com/) — if you've used the API before, you're good. Typical cost is a few cents per PR briefing.
+macOS (Apple Silicon or Intel) or Linux x86_64 and an [Anthropic API key](https://console.anthropic.com/). Typical cost is a few cents per PR briefing.
